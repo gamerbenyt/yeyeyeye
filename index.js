@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Automating CSRP!","DM Me for support!"];
+const statusMessages = ["Playing With The World!,"A Robot Gamer Ben!"];
 
 
 let currentIndex = 0;
